@@ -23,4 +23,4 @@ Key | Type | Required | Description
 `username` | `string` | `True` | The username to access the FedEx Delivery Manager service.
 `password` | `string` | `True` | The password for the given username.
 `name` | `string` | `False` | Name the sensor.
-`scan_inverval` | `list` | `False` | Minimum time interval between updates. Default is 1 hour.
+`scan_interval` | `list` | `False` | Minimum time interval between updates. Default is 1 hour.
